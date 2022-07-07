@@ -1,0 +1,14 @@
+Unstoppable Cannonball:
+"FA": {
+				"status": "1",
+				"velX": "3",
+				"velY": "-30",
+				"accelX": "5",
+				"accelY": "10",
+				"activeFrameStart": "1",
+				"activeFrameStop": "1",
+				"landingLag": "10",
+				"hasVFX": "0",
+				"SFX": "poderoso_belly",
+				"customCall": "DB"
+			},
