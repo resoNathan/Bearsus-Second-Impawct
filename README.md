@@ -13,6 +13,6 @@ All assets from this game (unless otherwise stated) are created and owned by ARF
 
 - [Official Website](http://www.arfgamestudio.com/)
 - [Bearsus Twitter](https://twitter.com/BearsusGame)
-- [Bearsus Discord](bearsus.com/discord/)
+- [Bearsus Discord](https://bearsus.com/discord/)
 - [Play the Game on Poki](https://poki.com/en/g/bearsus)
 - [Download the Game on Itch.io](https://arfgames.itch.io/bearsus)
